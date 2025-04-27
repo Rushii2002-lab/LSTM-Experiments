@@ -107,7 +107,7 @@ Setup Instructions
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/LSTM-Experiments.git
+git clone https://github.com/Rushii2002-lab/LSTM-Experiments.git
 cd LSTM-Experiments
 Install dependencies:
 
