@@ -145,7 +145,7 @@ MIT AOE Pune
 Declaration
 I, Rushikesh Sawant, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account:
 
-GitHub Repository Link: 
+GitHub Repository Link: https://github.com/Rushii2002-lab/LSTM-Experiments.git
 
 Signature: Rushikesh Sawant
 Date: 27-04-2025
